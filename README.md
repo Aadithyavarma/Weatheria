@@ -31,3 +31,8 @@ details of the place along with the note you have saved.
 
 The main focus of this app is to provide the user a smooth and aesthetically pleasing experience with the UI.
 I hope everyone likes and enjoys this app! Thank You.
+
+Video has been appended in the zip file itself.
+
+Else please check the link given below
+YouTube: https://youtu.be/22IalxPsa9w
