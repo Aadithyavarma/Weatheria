@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weatheria</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_store_to_database">StoreToDatabase</string>
+</resources>
